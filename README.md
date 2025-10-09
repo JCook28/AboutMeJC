@@ -43,5 +43,5 @@ My Favorite Websites
 Persons of Interest
 -  
 
-[Sun Wukong][1]
+[Sun Wukong][1]  
 ![Wukong](https://github.com/JCook28/AboutMeJC/blob/main/sunwukong.jpeg)
