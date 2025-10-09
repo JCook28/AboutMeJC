@@ -44,5 +44,5 @@ Persons of Interest
 -  
 
 [Sun Wukong][1]  
-<kbd>
-<img src="https://github.com/JCook28/AboutMeJC/blob/main/sunwukong.jpeg" height="100px" width="100px"></kbd>
+<kbd>   
+<img src="https://github.com/JCook28/AboutMeJC/blob/main/sunwukong.jpeg" height="300px" width="300px"></kbd>
