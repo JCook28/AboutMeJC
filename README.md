@@ -44,4 +44,4 @@ Persons of Interest
 -  
 
 [Sun Wukong][1]
-![Wukong]()
+![Wukong](https://github.com/JCook28/AboutMeJC/blob/main/sunwukong.jpeg)
