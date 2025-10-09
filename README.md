@@ -46,3 +46,12 @@ Persons of Interest
 [Sun Wukong][1]  
 <kbd>   
 <img src="https://github.com/JCook28/AboutMeJC/blob/main/sunwukong.jpeg" height="300px" width="300px"></kbd>
+
+CS Terms
+-  
+
+| Terms |
+| - |
+| What does it mean by favorite terms |
+| Money, insert mr. krabs |
+| yahoo |
