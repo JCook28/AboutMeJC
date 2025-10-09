@@ -51,7 +51,7 @@ CS Terms
 -  
 
 | Terms |
-| - |
+| :- |
 | What does it mean by favorite terms |
 | Money, insert mr. krabs |
 | yahoo |
