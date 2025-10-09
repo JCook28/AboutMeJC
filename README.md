@@ -26,6 +26,6 @@ _Even the smallest ideas can be expanded upon_
 Favortie Quotes
 -  
 
-"It always seems _impossible_ until it's *done*"  
-"If you fall behind, run faster. _Never_ give up, *never surrender* and _rise_ up against the odds"  
+"It always seems __impossible__ until it's **done**"  
+"If you fall behind, run faster. __Never__ give up, **never surrender** and __rise__ up against the odds"  
 
