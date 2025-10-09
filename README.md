@@ -50,8 +50,8 @@ Persons of Interest
 CS Terms
 -  
 
-| Terms | Definitions | 
-| :- | :----: |
-| Defenestrate | Throwing a person or thing out of a window |
-| Money | Something generally accepted as a medium of exchange, a measure of value, or a means of payment |
-| Lore | something that is learned |
+| Terms | Definitions | My Meaning | 
+| :- | :----: | --: |
+| Defenestrate | Throwing a person or thing out of a window | There's a day that called for throwing your shortest friend day, I had to be on watch that day |
+| Money | Something generally accepted as a medium of exchange, a measure of value, or a means of payment | Something desireable that the world revolves around |
+| Lore | something that is learned | Usually said about video games about storyline and backstories, including context |
