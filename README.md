@@ -8,6 +8,8 @@ My name is Johana and I like making designs for many different things. Creation 
 
 [Like really favorite book]:https://www.barnesandnoble.com/s/omniscient%20reader's%20viewpoint%20series
 
+[1]: https://en.wikipedia.org/wiki/Sun_Wukong
+
 Hobbies
 - 
 
@@ -36,4 +38,9 @@ My Favorite Websites
 
 [2nd & Charles](https://www.2ndandcharles.com/)  
 
-[Favorite bookstore][Like really favorite book]
+[Favorite bookstore][Like really favorite book]  
+
+Persons of Interest
+-  
+
+[Sun Wukong][1]
