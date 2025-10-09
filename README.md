@@ -50,8 +50,8 @@ Persons of Interest
 CS Terms
 -  
 
-| Terms |
-| :- |
-| What does it mean by favorite terms |
-| Money, insert mr. krabs |
-| yahoo |
+| Terms | Definitions | 
+| :- | :----: |
+| Defenestrate | Throwing a person or thing out of a window |
+| Money | Something generally accepted as a medium of exchange, a measure of value, or a means of payment |
+| Lore | something that is learned |
