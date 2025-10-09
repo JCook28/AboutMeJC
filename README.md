@@ -15,3 +15,17 @@ My Hobbies Include
 - Art
 + Reading
 * Gaming
+
+
+My Motto  
+-  
+
+*Creativity is a virtue to all creations*  
+_Even the smallest ideas can be expanded upon_  
+
+Favortie Quotes
+-  
+
+"It always seems _impossible_ until it's *done*"  
+"If you fall behind, run faster. _Never_ give up, *never surrender* and _rise_ up against the odds"  
+
